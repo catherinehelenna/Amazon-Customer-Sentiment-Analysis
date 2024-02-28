@@ -1,0 +1,9 @@
+You can find the dataset in here:
+https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/data
+
+Get the model and dataset from here:
+https://drive.google.com/drive/folders/1Mjc5Tiiw9sv6XCOiCZJMnFArCVWZIwuK?usp=drive_link
+file = 1429_1.csv
+
+Link deployment can be accessed here:
+https://huggingface.co/spaces/catherinehelenna/P2G7_Catherine
