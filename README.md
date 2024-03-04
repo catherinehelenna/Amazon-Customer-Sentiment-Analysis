@@ -11,19 +11,19 @@ https://huggingface.co/spaces/catherinehelenna/P2G7_Catherine
 ----------------------------------------------------------------------------------------------------------
 ### Background of the project
 
-Being the second highest brand value after Google in 2022, Amazon is a globally well-known online retailer and web service provider. Having 300 million active users in 2022 shows how big the volumes of transactions happening in the platform which also translates into large number of the customer feedbacks on the products. 
+Being the second highest brand value after Google in 2022, Amazon is a globally well-known online retailer and web service provider. Having 300 million active users in 2022 shows how big the volumes of transactions happening in the platform which also translates into large number of the customer feedbacks on the products. It is crucial to do sentiment analysis on these feedbacks so that Amazon can maintain as well as improve its products and services for customers.
 
 ----------------------------------------------------------------------------------------------------------
 ### Problem Statement
 
-Investigate the popularity of Airbnb room types in New York City, specifically those with an availability of less than 120 days. Analyze room types, neighborhood variances, and pricing influences on the minimum booking duration for guests, with the goal of completing the study within a month.
+A natural language processing (NLP) model is built to streamline the sentiment analysis process of Amazon products. Based on the product rating, the sentiments are divided into three categories: negative (0-2), neutral (2-3), and positive (4-5).
 
 ----------------------------------------------------------------------------------------------------------
 ### What can you find in this project?
 
-Data cleaning, visualizations, and statistical studies to give insights for the next hosting strategies.
+Data cleaning, visualizations, NLP model building process, as well as the deployment folder to make the web app.
 
-### Finally, the recommendation for the hosting strategies!
+### Finally, the !
 
 Setting up more listings on Staten Island for 'Shared room' can fulfill the observed demand, leading to potential higher prices. Here are the consideration points:
 
@@ -37,6 +37,9 @@ Setting up more listings on Staten Island for 'Shared room' can fulfill the obse
 Please do let me know if you have feedbacks or improvements for this project by reaching through catherinehelenna888@gmail.com
 
 Thank you for reading!!
+
+Source:
+https://www.investing.com/academy/statistics/amazon-facts/#:~:text=Amazon%20is%20worth%20over%20%241.105,visit%20Amazon.com%20every%20month.
 
 
 
