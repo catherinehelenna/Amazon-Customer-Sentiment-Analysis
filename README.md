@@ -25,6 +25,9 @@ Data cleaning, visualizations, NLP model building process, as well as the deploy
 
 ### Some notes about the model
 
+- You need to use Google Colab to run the modelling program since it's very heavy.
+- The model is good at detecting positive sentiments and still needing improvements on categorizing neutral and negative sentiments.
+
 ----------------------------------------------------------------------------------------------------------
 Please do let me know if you have feedbacks or improvements for this project by reaching through catherinehelenna888@gmail.com
 
