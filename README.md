@@ -23,15 +23,7 @@ A natural language processing (NLP) model is built to streamline the sentiment a
 
 Data cleaning, visualizations, NLP model building process, as well as the deployment folder to make the web app.
 
-### Finally, the !
-
-Setting up more listings on Staten Island for 'Shared room' can fulfill the observed demand, leading to potential higher prices. Here are the consideration points:
-
-- The geospatial heatmap distribution of popular Airbnb rooms suggests that Staten Island has less Airbnb listing density compared to Manhattan and Brooklyn although its 'Shared room' is most on demand.
-
-- The pie chart points out how low 'Shared room' proportion is compared to other room types in the neighbourhoods. So, the competition for booking is also less.
-
-- It is possible to set up high price on the listing since the guests tend to stay in longer periods for more expensive Airbnb rooms.
+### Some notes about the model
 
 ----------------------------------------------------------------------------------------------------------
 Please do let me know if you have feedbacks or improvements for this project by reaching through catherinehelenna888@gmail.com
@@ -39,7 +31,7 @@ Please do let me know if you have feedbacks or improvements for this project by 
 Thank you for reading!!
 
 Source:
-https://www.investing.com/academy/statistics/amazon-facts/#:~:text=Amazon%20is%20worth%20over%20%241.105,visit%20Amazon.com%20every%20month.
+- [About Amazon](https://www.investing.com/academy/statistics/amazon-facts/#:~:text=Amazon%20is%20worth%20over%20%241.105,visit%20Amazon.com%20every%20month.) 
 
 
 
